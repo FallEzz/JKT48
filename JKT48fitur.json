@@ -1,14 +1,14 @@
 [
   {
-    index: 0,
-    img: 'https://telegra.ph/file/9ffe2e78462fee04a7097.jpg',
-    jawaban: 'Lulu JKT48',
-    deskripsi: 'Jiko Lulu.'
+    "index": 0,
+    "img": 'https://telegra.ph/file/9ffe2e78462fee04a7097.jpg',
+    "jawaban": 'Lulu JKT48',
+    "deskripsi": 'Jiko Lulu.'
   },
   {
-    index: 1,
-    img: 'https://www.cademedia.com/wp-content/uploads/2020/12/tebak-gambar-level-1-nomor-2.jpg',
-    jawaban: 'TENAGA LISTRIK',
-    deskripsi: 'Gambar huruf TE, ular naga dan tegangan listrik (petir).'
+    "index": 1,
+    "img": 'https://www.cademedia.com/wp-content/uploads/2020/12/tebak-gambar-level-1-nomor-2.jpg',
+    "jawaban": 'TENAGA LISTRIK',
+    "deskripsi": 'Gambar huruf TE, ular naga dan tegangan listrik (petir).'
   },
 ]
